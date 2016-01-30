@@ -1,0 +1,6 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">Wearable</string>
+    <string name="my_analog_name">Anna Weather</string>
+    <string name="format_temperature"><xliff:g id="low">%1.0f</xliff:g>\u00B0&#8230;<xliff:g id="high">%1.0f</xliff:g>\u00B0</string>
+    <string name="no_info">No\nconnection</string>
+</resources>
